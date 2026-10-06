@@ -1,0 +1,26 @@
+Item,Designator,Qty,Description / Value,Manufacturer Part Number / Package
+   1,U3,1,32-bit ARM Cortex-M0 MCU,STM32F030CCT6TR[cite: 13]
+   2,U1,1,RS232 Line Driver/Receiver,MAX3232CDR[cite: 12]
+   3,U2,1,RS485 Transceiver,SN65HVD3082EDGKR[cite: 12]
+   4,"U4, U5",2,Dual Operational Amplifier,LM358DR2G
+   5,U6,1,1.8V LDO Voltage Regulator,LM1117DTX-1.8/NOPB
+   6,U7,1,5V Linear Voltage Regulator,L7805CP
+   7,U8,1,12V Linear Voltage Regulator,LM7812S/NOPB
+   8,"D5, D6, D7",3,Bridge Rectifier,MDB6S
+   9,"C16, C19, C22",3,Electrolytic Capacitor (470uF),470uF
+   10,C11,1,Electrolytic Capacitor (10uF),10uF[cite: 13]
+   11,"C1, C2, C3, C4, C6, C7, C8, C9, C10, C14, C15, C17, C18, C20, C21, C23, C24",17,Ceramic Capacitor (0.1uF),0.1uF[cite: 12, 13]
+   12,"C12, C13",2,Crystal Load Capacitor (22pF),22pF[cite: 13]
+   13,Y1,1,Crystal Oscillator (14.318 MHz),ABM2-14.31818MHZ-D4Y-T[cite: 13]
+   14,"Q1, Q2",2,NPN Transistor,SBC847CLTIG[cite: 13]
+   15,"K1, K2",2,12V Electromechanical Relay,G5LE-1-E DC12[cite: 13]
+   16,"D1, D3",2,Switching Diode (Flyback),1N4007[cite: 13]
+   17,"D2, D4",2,Surface Mount LED (Blue/Cyan),LTST-C191TBKT[cite: 13]
+   18,"DS1, DS2, DS3, DS4",4,Infrared Sensors (Transmitters/Receivers),IR_TX / IR_RX
+   19,"R1, R2, R12, R13, R14, R15",6,Resistor (10k ohms),10K[cite: 12, 13]
+   20,"R3, R6",2,Resistor (330 ohms),330R[cite: 12]
+   21,"R16, R20",2,Resistor (300 ohms),300R
+   22,"R17, R21",2,Resistor (100 ohms),100R
+   23,"R4, R5, R7, R8, R9, R10, R11, R18, R19, R22, R23",11,Resistor (1k ohms),1k[cite: 12, 13]
+   24,"J1, J2",2,Terminal Block (3-Pin),B03B-PASK-1(LF)(SN)[cite: 13]
+   25,J3,1,USB Connector,292303-1[cite: 13]
