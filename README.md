@@ -24,13 +24,16 @@ This hardware prototype successfully integrates multiple complex electronic bloc
 ## 📷 PCB Visualizations & Renders
 
 ### 3D Board View
-![3D View](Documentation/3D_View.png)
+<img width="533" height="538" alt="3D_View" src="https://github.com/user-attachments/assets/2b83272e-f556-408a-91f9-44c8e85d9eba" />
 
 ### Top Layer View
-![Top View](Documentation/Top_View.png)
+<img width="500" height="526" alt="Top_View" src="https://github.com/user-attachments/assets/2ec081e1-04a7-49f7-a8dd-4254c1f6c9f6" />
 
 ### Bottom Layer View
-![Bottom View](Documentation/Bottom_View.png)
+<img width="489" height="471" alt="Bottom_View" src="https://github.com/user-attachments/assets/92263497-3278-411d-88ff-ca87297be35c" />
+
+### Track Layer View
+<img width="458" height="481" alt="Track Layout" src="https://github.com/user-attachments/assets/379e624a-0577-491d-b590-0e8862f5b03b" />
 
 ---
 
